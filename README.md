@@ -5,14 +5,14 @@
 - 중첩된 라우트를 통해 공통 레이아웃 사용<br/>
 - Header에서는 useNavigate를 사용하여 뒤로가기, 게시글 목록으로 이동<br/>
 <br/>
-<img width="723" alt="소개 페이지" src="https://user-images.githubusercontent.com/102382351/195000284-64e4d47d-c25d-4a83-871a-bb01923a8ab0.png">
+<img width="588" alt="소개 페이지" src="https://user-images.githubusercontent.com/102382351/195000879-e5b4676e-0021-42b9-adaa-3ffed8210fcd.png">
 - 쿼리스트링을 사용하여 detail, mode 표시<br/>
 <br/>
 <img width="613" alt="프로필 페이지" src="https://user-images.githubusercontent.com/102382351/195000289-cfa8a388-b270-46ce-90b1-678d7114420e.png">
 - URL 파라미터를 사용하여 프로필 페이지 이동<br/>
 - URL 파라미텅 이름은 라우트 설정 시 Route 컴포넌트의 path props를 설정<br/>
 <br/>
-<img width="590" alt="게시글 페이지" src="https://user-images.githubusercontent.com/102382351/195000280-c039c833-e842-4248-8a9b-e066c2d8170e.png">
+<img width="587" alt="게시글 페이지" src="https://user-images.githubusercontent.com/102382351/195000882-7498a52f-52c7-44c6-bb36-63ebe50cf77b.png">
 - 중첩된 라우트, Outlet 컴포넌트 사용<br/>
 - NavLink를 사용하여 링크 경크 경로와 라우트 경로가 일치하는 경우, 특정 CSS 적용<br/>
 <br/>
