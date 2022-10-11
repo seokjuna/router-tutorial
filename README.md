@@ -1,5 +1,5 @@
-리액트 라우터를 활용한 SPA 개발
-<br/>
+리액트 라우터를 활용한 SPA 개발<br/>
+
 <img width="634" alt="홈 페이지" src="https://user-images.githubusercontent.com/102382351/194698268-9ea54175-4c00-4606-aede-611f5d66fd8e.png">
 - 링크 컴포넌트를 사용하여 페이지 이동<br/>
 - 중첩된 라우트를 통해 공통 레이아웃 사용<br/>
