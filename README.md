@@ -2,10 +2,9 @@
 
 
 <img width="634" alt="홈 페이지" src="https://user-images.githubusercontent.com/102382351/194698268-9ea54175-4c00-4606-aede-611f5d66fd8e.png">
-- 링크 컴포넌트를 사용하여 페이지 이동
+- 링크 컴포넌트를 사용하여 페이지 이동<br/>
 - 중첩된 라우트를 통해 공통 레이아웃 사용
 - Header에서는 useNavigate를 사용하여 뒤로가기, 게시글 목록으로 이동
-
 
 <img width="635" alt="소개 페이지" src="https://user-images.githubusercontent.com/102382351/194698280-a2c0fcf9-71c8-4078-88bc-7103e1fbdd99.png">
 - 쿼리스트링을 사용하여 detail, mode 표시
