@@ -10,7 +10,7 @@
 <br/>
 <img width="613" alt="프로필 페이지" src="https://user-images.githubusercontent.com/102382351/195000289-cfa8a388-b270-46ce-90b1-678d7114420e.png">
 - URL 파라미터를 사용하여 프로필 페이지 이동<br/>
-- URL 파라미텅 이름은 라우트 설정 시 Route 컴포넌트의 path props를 설정<br/>
+- URL 파라미터 이름은 라우트 설정 시 Route 컴포넌트의 path props를 설정<br/>
 <br/>
 <img width="587" alt="게시글 페이지" src="https://user-images.githubusercontent.com/102382351/195000882-7498a52f-52c7-44c6-bb36-63ebe50cf77b.png">
 - 중첩된 라우트, Outlet 컴포넌트 사용<br/>
