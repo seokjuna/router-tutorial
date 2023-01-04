@@ -1,5 +1,9 @@
 리액트 라우터를 활용한 SPA 개발<br/>
-
+<br>
+노션 링크:
+https://seokjuna.notion.site/13-SPA-1-b98e625c89e94f9687fc4caf5ed09f16<br>
+https://seokjuna.notion.site/13-SPA-2-f2be0cac6f864cbdae858c09dbcd1d47<br>
+<br>
 <img width="592" alt="홈 페이지" src="https://user-images.githubusercontent.com/102382351/195000436-fdbe8b95-c462-4326-85b4-77fbb21e27fe.png">
 - 링크 컴포넌트를 사용하여 페이지 이동<br/>
 - 중첩된 라우트를 통해 공통 레이아웃 사용<br/>
